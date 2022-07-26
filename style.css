@@ -1,7 +1,18 @@
-.nav-color{
-    color: #FA804C;
-}
 .logo{
     Width: 291.11px;
     Height: 39.27px;
+}
+.banner-bg{
+    color: #FFF9F4;
+}
+.banner-img{
+    height: 415px;
+    width: 440px;
+}
+.icon{
+    height: 24px;
+        width: 24px;
+}
+.t-col{
+    color: #FA804C;
 }
